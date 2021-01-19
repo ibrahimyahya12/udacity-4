@@ -1,3 +1,7 @@
-# type: project udacity post your work on github
-# date creat 1/19/2021
-# fiels: bikeshare
+# type
+__project udacity post your work on github__
+# date 
+__create 1/19/2021__
+# fiels:
+__bikeshare and gitignore__
+
